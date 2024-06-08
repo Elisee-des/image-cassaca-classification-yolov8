@@ -1,5 +1,10 @@
 import numpy as np
 import torch
+from ultralytics import YOLO
+import numpy as np
+import torch
+import os
+from pathlib import Path
 
 # Charger le modèle YOLOv8
 model = YOLO('./runs/classify/train/weights/last.pt')
