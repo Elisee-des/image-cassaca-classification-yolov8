@@ -1,0 +1,63 @@
+Bien sûr, voici des exemples de phrases simples pour expliquer chacune des caractéristiques :
+
+### Caractéristiques de Contour
+
+1. **Hauteur** : 
+   - "La hauteur du plus grand objet dans cette image est de 481 pixels."
+
+2. **Largeur** :
+   - "La largeur du plus grand objet dans cette image est de 800 pixels."
+
+3. **Périmètre** :
+   - "Le périmètre du plus grand objet dans cette image est de 10347.35 pixels, ce qui correspond à la longueur totale de son contour."
+
+4. **Périmètre normalisé** :
+   - "Le périmètre du plus grand objet, normalisé par rapport à la taille de l'image, est de 3.70."
+
+5. **Rapport d'aspect** :
+   - "Le rapport d'aspect du plus grand objet dans l'image est de 1.66, ce qui signifie que sa largeur est 1.66 fois sa hauteur."
+
+6. **Surface** :
+   - "La surface du plus grand objet dans cette image est de 258539.5 pixels carrés."
+
+7. **Surface normalisée** :
+   - "La surface du plus grand objet, normalisée par rapport à la surface totale de l'image, est de 0.54."
+
+### Caractéristiques de Couleur
+
+1. **Hue Mean** (Moyenne de la teinte) :
+   - "La teinte moyenne des couleurs dans cette image est de 76.91 degrés sur une échelle de 0 à 179."
+
+2. **Hue Std** (Écart-type de la teinte) :
+   - "La variation des teintes dans cette image est de 53.81 degrés."
+
+3. **Saturation Mean** (Moyenne de la saturation) :
+   - "La saturation moyenne des couleurs dans cette image est de 80.13 sur une échelle de 0 à 255."
+
+4. **Saturation Std** (Écart-type de la saturation) :
+   - "La variation de la saturation des couleurs dans cette image est de 43.81."
+
+5. **Value Mean** (Moyenne de la valeur/éclairage) :
+   - "La luminosité moyenne dans cette image est de 148.34 sur une échelle de 0 à 255."
+
+6. **Value Std** (Écart-type de la valeur/éclairage) :
+   - "La variation de la luminosité dans cette image est de 46.48."
+
+### Caractéristiques de Texture
+
+1. **Contraste** :
+   - "Le contraste de cette image est de 200.94, indiquant une grande différence d'intensité entre les pixels voisins."
+
+2. **Corrélation** :
+   - "La corrélation entre les pixels voisins dans cette image est de 0.95, ce qui signifie que les valeurs des pixels sont fortement liées entre elles."
+
+3. **Dissimilarité** :
+   - "La dissimilarité dans cette image est de 8.53, indiquant des différences importantes entre les pixels voisins."
+
+4. **Énergie** :
+   - "L'énergie de cette image est de 0.015, ce qui signifie que la texture est relativement uniforme."
+
+5. **Homogénéité** :
+   - "L'homogénéité de cette image est de 0.20, ce qui signifie que les pixels voisins ont souvent des valeurs similaires."
+
+Ces phrases expliquent chaque caractéristique de manière simple et compréhensible pour une personne non spécialiste.

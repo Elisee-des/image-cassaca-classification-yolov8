@@ -9,7 +9,7 @@ import torch
 app = Flask(__name__)
 
 # Charger le modèle YOLOv8
-model = YOLO('./runs/classify/train6/weights/last.pt')
+model = YOLO('./runs/classify/train6/weights/best.pt')
 
 @app.route('/predict', methods=['POST'])
 def predict():
